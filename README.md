@@ -1,2 +1,3 @@
 # version-control-exercises
-tutorial version control week 3
+This is an edit of the README
+*I do this for practice*
