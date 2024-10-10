@@ -1,1 +1,2 @@
 This is for the version control exercises in Github.
+Now i add some other lines, because this is also part of the tutorial.
